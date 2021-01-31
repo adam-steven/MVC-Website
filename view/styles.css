@@ -1,0 +1,24 @@
+/* for account creation move the validation indecators to the right of there respective form*/ 
+#mailIndecator {
+   float:right;
+width:60%;
+overflow:hidden;
+}
+
+#phoneIndecator {
+   float:right;
+width:60%;
+overflow:hidden;
+}
+
+#passwordStrength {
+   float:right;
+width:60%;
+overflow:hidden;
+}
+
+#passCheckIndecator {
+   float:right;
+width:60%;
+overflow:hidden;
+}
